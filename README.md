@@ -124,7 +124,7 @@ kubectl installed (optional for verification)
 
 bash
 Copy code
-git clone https://github.com/your-username/install-wordpress-k8s-ansible.git
+git clone https://github.com/Moiz-Ali-Moomin/wordpress-in-k8sCluster-over-aws
 cd install-wordpress-k8s-ansible
 
 3️⃣ Configure credentials
